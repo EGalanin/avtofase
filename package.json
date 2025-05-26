@@ -1,6 +1,7 @@
 {
   "name": "avtoface",
   "private": true,
+  "homepage": "https://EGalanin.github.io/avtofase",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "predeploy": "rm -rf build && npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
