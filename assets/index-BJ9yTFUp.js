@@ -1,0 +1,2 @@
+import{j as u}from"./index-BWUryNn3.js";const s=()=>u.jsxs("div",{className:"mx-auto max-w-4xl",children:[u.jsx("h1",{className:"mb-6 text-3xl font-bold",children:"Поиск автомобиля"}),u.jsx("div",{className:"rounded-lg bg-white p-6 shadow",children:u.jsx("p",{className:"text-gray-500",children:"Страница поиска (в разработке)"})})]}),a=s;export{a as Component,s as default};
+//# sourceMappingURL=index-BJ9yTFUp.js.map

@@ -1,2 +1,0 @@
-import{j as u}from"./index-jer1tlCW.js";const e=()=>u.jsxs("div",{className:"mx-auto max-w-4xl",children:[u.jsx("h1",{className:"mb-6 text-3xl font-bold",children:"Пример отчета"}),u.jsx("div",{className:"rounded-lg bg-white p-6 shadow",children:u.jsx("p",{className:"text-gray-500",children:"Пример отчета (в разработке)"})})]}),a=e;export{a as Component,e as default};
-//# sourceMappingURL=index-BLBUd6vn.js.map
