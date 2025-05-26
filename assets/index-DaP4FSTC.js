@@ -1,0 +1,2 @@
+import{u as e,j as u}from"./index-jer1tlCW.js";const a=()=>{const{id:s}=e();return u.jsxs("div",{className:"mx-auto max-w-4xl",children:[u.jsxs("h1",{className:"mb-6 text-3xl font-bold",children:["Отчет #",s]}),u.jsx("div",{className:"rounded-lg bg-white p-6 shadow",children:u.jsx("p",{className:"text-gray-500",children:"Просмотр отчета (в разработке)"})})]})},o=a;export{o as Component,a as default};
+//# sourceMappingURL=index-DaP4FSTC.js.map
